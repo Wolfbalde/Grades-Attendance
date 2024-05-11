@@ -1,2 +1,2 @@
 # Grades-Attendance
- Create a python application using numpy and pandas to show the grades of students 
+ A working python code to show the grades of students using numpy and pandas 
